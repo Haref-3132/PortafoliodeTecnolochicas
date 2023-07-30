@@ -1,6 +1,6 @@
 # Portafolio Adaptable con Bootstrap 5
 
-Este proyecto creado para el bootcamp Tecnolochicas PRO, un proyecto muy importante para personalizarlo y adjuntar proyectos realizados durante la clas
+Este proyecto creado para el bootcamp Tecnolochicas PRO, un proyecto muy importante para personalizarlo y adjuntar proyectos realizados durante la clase
 
 #
 
